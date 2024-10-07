@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <footer>
-        Designed And Developed Knighthood....! 
+       All right all right reserved @2024 
     </footer>
   )
 }
